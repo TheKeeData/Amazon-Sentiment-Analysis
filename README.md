@@ -20,8 +20,16 @@ This project makes use of:
 - Libraries: NLTK, scikit-learn, pandas, tqdm, joblib, matplotlib
 
 ## Dataset Description
+
 - Training Dataset: 3.6 million reviews (50% Positive, 50% Negative)
+  
+  ![train](https://github.com/user-attachments/assets/624165e0-f5d9-447c-bab9-f3c22089a6a0)
+
 - Test Dataset: 400,000 reviews (50% Positive, 50% Negative)
+  
+![test](https://github.com/user-attachments/assets/834d97eb-c8cf-4347-888c-f27bcc8c827f)
+
+
 - Source: Amazon product reviews
 
 ## Methodology
