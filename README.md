@@ -85,14 +85,6 @@ logistic_regression_model.joblib: Saved logistic regression model.
 
 evaluation_results.txt: Evaluation metrics including accuracy, classification report, and confusion matrix.
 
-## Visualizations:
-Feature_Engineering.png
-
-Confusion_Matrix.png
-
-Training_Data_Distribution.png
-
-Test_Data_Distribution.png
 
 ## Future Work and Recommendations
 
